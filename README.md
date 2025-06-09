@@ -28,8 +28,7 @@ npm install -g expo-cli
 
 ### 🏠 Home Screen
 
-![Home](./demo/dashboard.jpg)
-![Home](./demo/dashbaord_2.jpg)
+![Home](<div align="center"> <img src="./demo/dashboard.jpg" alt="Dashboard 1" width="250" height="500" /> <img src="./demo/dashbaord_2.jpg" alt="Dashboard 2" width="250" height="500" /> </div>)
 
 ### 🛒 Products
 
