@@ -1,0 +1,69 @@
+{
+  "expo": {
+    "name": "Nectar",
+    "slug": "Nectar_grocerie_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app_icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/app_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#53B175",
+      "imageWidth": 400,
+      "android": {
+        "splash": {
+          "image": "./assets/app_logo.png",
+          "backgroundColor": "#53B175",
+          "resizeMode": "contain",
+          "imageWidth": 400
+        }
+      }
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app_icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.mackgajjar.Nectar_grocerie_app"
+    },
+    "web": {
+      "favicon": "./assets/app_icon.png"
+    },
+    "plugins": [
+      "expo-splash-screen",
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Gilroy-Regular.ttf",
+            "./assets/fonts/Gilroy-Medium.ttf",
+            "./assets/fonts/Gilroy-Light.ttf",
+            "./assets/fonts/Gilroy-Bold.ttf"
+          ]
+        }
+      ]
+    ],
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9fd16452-f39f-4758-bcb3-d7e7ebd2d950"
+      }
+    },
+    "owner": "mackgajjar"
+  }
+}
