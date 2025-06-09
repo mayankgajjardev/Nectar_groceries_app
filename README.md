@@ -28,21 +28,20 @@ npm install -g expo-cli
 
 ### 🏠 Home Screen
 
-![Home](<div align="center"> <img src="./demo/dashboard.jpg" alt="Dashboard 1" width="250" height="500" /> <img src="./demo/dashbaord_2.jpg" alt="Dashboard 2" width="250" height="500" /> </div>)
+<div align="center"> <img src="./demo/dashboard.jpg" alt="Dashboard 1" width="250" height="500" /> <img src="./demo/dashbaord_2.jpg" alt="Dashboard 2" width="250" height="500" /> </div>
 
 ### 🛒 Products
 
-![Details](./demo/products.jpg)
+<div align="center"> <img src="./demo/products.jpg" alt="Products" width="250" height="500" /> </div>
 
 ### 🛒 Cart
 
-![Details](./demo/cart.jpg)
+<div align="center"> <img src="./demo/cart.jpg" alt="Cart" width="250" height="500" /> </div>
 
 ### 🛒 Explore
 
-![Details](./demo/explore.jpg)
-![Details](./demo/filter.jpg)
+<div align="center"> <img src="./demo/explore.jpg" alt="Explore" width="250" height="500" /> <img src="./demo/filter.jpg" alt="Filter" width="250" height="500" /> </div>
 
 ### 🛒 Favorite
 
-![Details](./demo/favorite.jpg)
+<div align="center"> <img src="./demo/favorite.jpg" alt="Favorite" width="250" height="500" /> </div>
